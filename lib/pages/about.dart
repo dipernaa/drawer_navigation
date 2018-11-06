@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class EventsPage extends StatelessWidget {
+class AboutPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: new Text('eventing'),
+      body: new Text('about us'),
     );
   }
 }
